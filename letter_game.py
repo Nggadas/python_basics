@@ -133,12 +133,3 @@ while True:
 #         print ('')
 #         print ("You didn't guess it! My secret word was {}".format(secret_word))
 #         print ('')
-
-    import sys
-
-    start_movie = input("")
-
-    if start_movie.lower != 'n':
-        print("Enjoy the show!")
-    else:
-        sys.exit()
